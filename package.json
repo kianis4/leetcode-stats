@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kianis4/leetcode-stats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kianis4/leetcode-stats/issues"
+  },
+  "homepage": "https://github.com/kianis4/leetcode-stats#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "puppeteer": "^24.2.1"
+  }
+}
