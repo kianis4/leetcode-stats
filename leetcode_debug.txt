@@ -1,0 +1,4636 @@
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+kianis4 - LeetCode Profile{"@context":"http://schema.org","@type":"Person","address":"Canada","alumniOf":[{"@type":"EducationalOrganization","name":"McMaster University"}],"awards":[],"image":{"@type":"ImageObject","contentUrl":"https://assets.leetcode.com/users/avatars/avatar_1683102555.png"},"jobTitle":[""],"name":"Suleyman","url":"https://leetcode.com/kianis4","worksFor":[{"@type":"Organization","name":""}],"sameAs":["https://github.com/kianis4","https://linkedin.com/in/suleyman-kiani"]}<!-- NREUM: (4) -->:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}.C6UnP>div{max-width:100%;padding:0 12px}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NoYXJlZC9jb21wb25lbnRzL25hdi9uYXZiYXIvaW5kZXguaXNvLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUNFLGNBQWUsQ0FDZixjQUNGIiwic291cmNlc0NvbnRlbnQiOlsiLmJhbm5lckNvbnRlbnRXaWR0aEZ1bGw+ZGl2IHtcbiAgbWF4LXdpZHRoOiAxMDAlO1xuICBwYWRkaW5nOiAwIDEycHg7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */@keyframes WeZ3i{0%{opacity:1}20%{opacity:1}to{opacity:0}}@keyframes Pmu5J{0%{opacity:0}80%{opacity:1}to{opacity:1}}.qa_6R{animation:Pmu5J .4s linear both}.qa_6R.aH1ck{animation:WeZ3i .4s linear both}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NoYXJlZC9jb21wb25lbnRzL3Byb2dyZXNzLXZpZXdlci9Qcm9ncmVzc0NoYXJ0Lmlzby5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsaUJBQ0UsR0FDRSxTQUNGLENBQ0EsSUFDRSxTQUNGLENBQ0EsR0FDRSxTQUNGLENBQ0YsQ0FFQSxpQkFDRSxHQUNFLFNBQ0YsQ0FDQSxJQUNFLFNBQ0YsQ0FDQSxHQUNFLFNBQ0YsQ0FDRixDQUVBLE9BQ0UsK0JBQ0YsQ0FDQSxhQUNFLCtCQUNGIiwic291cmNlc0NvbnRlbnQiOlsiQGtleWZyYW1lcyBwcm9ncmVzc0NoYXJ0Q2lyY2xlSGlkZSB7XG4gIDAlIHtcbiAgICBvcGFjaXR5OiAxO1xuICB9XG4gIDIwJSB7XG4gICAgb3BhY2l0eTogMTtcbiAgfVxuICAxMDAlIHtcbiAgICBvcGFjaXR5OiAwO1xuICB9XG59XG5cbkBrZXlmcmFtZXMgcHJvZ3Jlc3NDaGFydENpcmNsZVNob3cge1xuICAwJSB7XG4gICAgb3BhY2l0eTogMDtcbiAgfVxuICA4MCUge1xuICAgIG9wYWNpdHk6IDE7XG4gIH1cbiAgMTAwJSB7XG4gICAgb3BhY2l0eTogMTtcbiAgfVxufVxuXG4uY2lyY2xlIHtcbiAgYW5pbWF0aW9uOiBwcm9ncmVzc0NoYXJ0Q2lyY2xlU2hvdyAwLjRzIGxpbmVhciBib3RoO1xufVxuLmNpcmNsZS5oaWRlIHtcbiAgYW5pbWF0aW9uOiBwcm9ncmVzc0NoYXJ0Q2lyY2xlSGlkZSAwLjRzIGxpbmVhciBib3RoO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+kianis4 - LeetCode Profile
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+{"@context":"http://schema.org","@type":"Person","address":"Canada","alumniOf":[{"@type":"EducationalOrganization","name":"McMaster University"}],"awards":[],"image":{"@type":"ImageObject","contentUrl":"https://assets.leetcode.com/users/avatars/avatar_1683102555.png"},"jobTitle":[""],"name":"Suleyman","url":"https://leetcode.com/kianis4","worksFor":[{"@type":"Organization","name":""}],"sameAs":["https://github.com/kianis4","https://linkedin.com/in/suleyman-kiani"]}
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+<!-- NREUM: (4) -->
+:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+  overflow: visible;
+  box-sizing: content-box;
+}
+
+.svg-inline--fa {
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285705em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left {
+  margin-right: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-pull-right {
+  margin-left: var(--fa-pull-margin, 0.3em);
+  width: auto;
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  top: 0.25em;
+}
+.svg-inline--fa.fa-fw {
+  width: var(--fa-fw-width, 1.25em);
+}
+
+.fa-layers svg.svg-inline--fa {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: 1em;
+}
+.fa-layers svg.svg-inline--fa {
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-counter-scale, 0.25));
+          transform: scale(var(--fa-counter-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  -webkit-transform: scale(var(--fa-layers-scale, 0.25));
+          transform: scale(var(--fa-layers-scale, 0.25));
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+  line-height: 0.0833333337em;
+  vertical-align: 0.125em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+  line-height: 0.0714285718em;
+  vertical-align: 0.0535714295em;
+}
+
+.fa-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.fa-xl {
+  font-size: 1.5em;
+  line-height: 0.0416666682em;
+  vertical-align: -0.125em;
+}
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: var(--fa-li-margin, 2.5em);
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: calc(var(--fa-li-width, 2em) * -1);
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.08em);
+  padding: var(--fa-border-padding, 0.2em 0.25em 0.15em);
+}
+
+.fa-pull-left {
+  float: left;
+  margin-right: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right {
+  float: right;
+  margin-left: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  -webkit-animation-name: fa-beat;
+          animation-name: fa-beat;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  -webkit-animation-name: fa-bounce;
+          animation-name: fa-bounce;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  -webkit-animation-name: fa-fade;
+          animation-name: fa-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  -webkit-animation-name: fa-beat-fade;
+          animation-name: fa-beat-fade;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+          animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  -webkit-animation-name: fa-flip;
+          animation-name: fa-flip;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, ease-in-out);
+          animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  -webkit-animation-name: fa-shake;
+          animation-name: fa-shake;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-delay: var(--fa-animation-delay, 0s);
+          animation-delay: var(--fa-animation-delay, 0s);
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 2s);
+          animation-duration: var(--fa-animation-duration, 2s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, linear);
+          animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  -webkit-animation-name: fa-spin;
+          animation-name: fa-spin;
+  -webkit-animation-direction: var(--fa-animation-direction, normal);
+          animation-direction: var(--fa-animation-direction, normal);
+  -webkit-animation-duration: var(--fa-animation-duration, 1s);
+          animation-duration: var(--fa-animation-duration, 1s);
+  -webkit-animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+          animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  -webkit-animation-timing-function: var(--fa-animation-timing, steps(8));
+          animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+.fa-bounce,
+.fa-fade,
+.fa-beat-fade,
+.fa-flip,
+.fa-pulse,
+.fa-shake,
+.fa-spin,
+.fa-spin-pulse {
+    -webkit-animation-delay: -1ms;
+            animation-delay: -1ms;
+    -webkit-animation-duration: 1ms;
+            animation-duration: 1ms;
+    -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+    -webkit-transition-delay: 0s;
+            transition-delay: 0s;
+    -webkit-transition-duration: 0s;
+            transition-duration: 0s;
+  }
+}
+@-webkit-keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  45% {
+    -webkit-transform: scale(var(--fa-beat-scale, 1.25));
+            transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@-webkit-keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    -webkit-transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+            transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    -webkit-transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+            transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    -webkit-transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+            transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    -webkit-transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+            transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    -webkit-transform: scale(1, 1) translateY(0);
+            transform: scale(1, 1) translateY(0);
+  }
+}
+@-webkit-keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@-webkit-keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    -webkit-transform: scale(var(--fa-beat-fade-scale, 1.125));
+            transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@-webkit-keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    -webkit-transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+            transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@-webkit-keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@keyframes fa-shake {
+  0% {
+    -webkit-transform: rotate(-15deg);
+            transform: rotate(-15deg);
+  }
+  4% {
+    -webkit-transform: rotate(15deg);
+            transform: rotate(15deg);
+  }
+  8%, 24% {
+    -webkit-transform: rotate(-18deg);
+            transform: rotate(-18deg);
+  }
+  12%, 28% {
+    -webkit-transform: rotate(18deg);
+            transform: rotate(18deg);
+  }
+  16% {
+    -webkit-transform: rotate(-22deg);
+            transform: rotate(-22deg);
+  }
+  20% {
+    -webkit-transform: rotate(22deg);
+            transform: rotate(22deg);
+  }
+  32% {
+    -webkit-transform: rotate(-12deg);
+            transform: rotate(-12deg);
+  }
+  36% {
+    -webkit-transform: rotate(12deg);
+            transform: rotate(12deg);
+  }
+  40%, 100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  -webkit-transform: rotate(var(--fa-rotate-angle, none));
+          transform: rotate(var(--fa-rotate-angle, none));
+}
+
+.fa-stack {
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+  position: relative;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.sr-only,
+.fa-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.sr-only-focusable:not(:focus),
+.fa-sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.fad.fa-inverse,
+.fa-duotone.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+.C6UnP>div{max-width:100%;padding:0 12px}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NoYXJlZC9jb21wb25lbnRzL25hdi9uYXZiYXIvaW5kZXguaXNvLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUNFLGNBQWUsQ0FDZixjQUNGIiwic291cmNlc0NvbnRlbnQiOlsiLmJhbm5lckNvbnRlbnRXaWR0aEZ1bGw+ZGl2IHtcbiAgbWF4LXdpZHRoOiAxMDAlO1xuICBwYWRkaW5nOiAwIDEycHg7XG59XG4iXSwic291cmNlUm9vdCI6IiJ9 */
+@keyframes WeZ3i{0%{opacity:1}20%{opacity:1}to{opacity:0}}@keyframes Pmu5J{0%{opacity:0}80%{opacity:1}to{opacity:1}}.qa_6R{animation:Pmu5J .4s linear both}.qa_6R.aH1ck{animation:WeZ3i .4s linear both}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NoYXJlZC9jb21wb25lbnRzL3Byb2dyZXNzLXZpZXdlci9Qcm9ncmVzc0NoYXJ0Lmlzby5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsaUJBQ0UsR0FDRSxTQUNGLENBQ0EsSUFDRSxTQUNGLENBQ0EsR0FDRSxTQUNGLENBQ0YsQ0FFQSxpQkFDRSxHQUNFLFNBQ0YsQ0FDQSxJQUNFLFNBQ0YsQ0FDQSxHQUNFLFNBQ0YsQ0FDRixDQUVBLE9BQ0UsK0JBQ0YsQ0FDQSxhQUNFLCtCQUNGIiwic291cmNlc0NvbnRlbnQiOlsiQGtleWZyYW1lcyBwcm9ncmVzc0NoYXJ0Q2lyY2xlSGlkZSB7XG4gIDAlIHtcbiAgICBvcGFjaXR5OiAxO1xuICB9XG4gIDIwJSB7XG4gICAgb3BhY2l0eTogMTtcbiAgfVxuICAxMDAlIHtcbiAgICBvcGFjaXR5OiAwO1xuICB9XG59XG5cbkBrZXlmcmFtZXMgcHJvZ3Jlc3NDaGFydENpcmNsZVNob3cge1xuICAwJSB7XG4gICAgb3BhY2l0eTogMDtcbiAgfVxuICA4MCUge1xuICAgIG9wYWNpdHk6IDE7XG4gIH1cbiAgMTAwJSB7XG4gICAgb3BhY2l0eTogMTtcbiAgfVxufVxuXG4uY2lyY2xlIHtcbiAgYW5pbWF0aW9uOiBwcm9ncmVzc0NoYXJ0Q2lyY2xlU2hvdyAwLjRzIGxpbmVhciBib3RoO1xufVxuLmNpcmNsZS5oaWRlIHtcbiAgYW5pbWF0aW9uOiBwcm9ncmVzc0NoYXJ0Q2lyY2xlSGlkZSAwLjRzIGxpbmVhciBib3RoO1xufVxuIl0sInNvdXJjZVJvb3QiOiIifQ== */
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('lc-theme');if('system'===e||(!e&&true)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}if(e==='light'||e==='dark')d.style.colorScheme=e}catch(e){}}()
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Sign in
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Explore
+Problems
+Contest
+Discuss
+Interview
+Store
+Explore
+Explore
+Problems
+Problems
+Contest
+Contest
+Discuss
+Discuss
+Interview
+Interview
+Interview
+Interview
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Store
+Store
+Store
+Store
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Sign in
+Sign in
+Sign in
+Register
+or
+Sign in
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Premium
+Premium
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+Suleyman
+kianis4
+Rank
+248,770
+Canada
+McMaster University
+https://suleyman.io/
+kianis4
+suleyman-kiani
+Suleyman
+kianis4
+Rank
+248,770
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Suleyman
+kianis4
+Rank
+248,770
+Suleyman
+Suleyman
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+kianis4
+kianis4
+Rank
+248,770
+Rank
+248,770
+Canada
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Canada
+Canada
+McMaster University
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+McMaster University
+McMaster University
+https://suleyman.io/
+https://suleyman.io/
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+https://suleyman.io/
+https://suleyman.io/
+kianis4
+kianis4
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+kianis4
+kianis4
+kianis4
+suleyman-kiani
+suleyman-kiani
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+suleyman-kiani
+suleyman-kiani
+suleyman-kiani
+[EMPTY ELEMENT]
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Community Stats
+Views
+46
+Last week+2
+Solution
+2
+Last week0
+Discuss
+0
+Last week0
+Reputation
+1
+Last week0
+Views
+46
+Last week+2
+Views
+46
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Views
+46
+Last week+2
+Last week
++2
++2
+Solution
+2
+Last week0
+Solution
+2
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Solution
+2
+Last week0
+Last week
+0
+0
+Discuss
+0
+Last week0
+Discuss
+0
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Discuss
+0
+Last week0
+Last week
+0
+0
+Reputation
+1
+Last week0
+Reputation
+1
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Reputation
+1
+Last week0
+Last week
+0
+0
+[EMPTY ELEMENT]
+Languages
+Python3
+317
+ 
+problems solved
+Python
+31
+ 
+problems solved
+Pandas
+12
+ 
+problems solved
+Show more
+Python3
+317
+ 
+problems solved
+Python3
+Python3
+317
+ 
+problems solved
+317
+problems solved
+Python
+31
+ 
+problems solved
+Python
+Python
+31
+ 
+problems solved
+31
+problems solved
+Pandas
+12
+ 
+problems solved
+Pandas
+Pandas
+12
+ 
+problems solved
+12
+problems solved
+Show more
+Show more
+[EMPTY ELEMENT]
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+Skills
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Show more
+Advanced
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Advanced
+Dynamic Programmingx39
+Backtrackingx18
+Divide and Conquerx5
+Dynamic Programmingx39
+Dynamic Programming
+Dynamic Programming
+x39
+Backtrackingx18
+Backtracking
+Backtracking
+x18
+Divide and Conquerx5
+Divide and Conquer
+Divide and Conquer
+x5
+Show more
+Show more
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Show more
+Intermediate
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Intermediate
+Hash Tablex71
+Mathx44
+Depth-First Searchx34
+Hash Tablex71
+Hash Table
+Hash Table
+x71
+Mathx44
+Math
+Math
+x44
+Depth-First Searchx34
+Depth-First Search
+Depth-First Search
+x34
+Show more
+Show more
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Show more
+Fundamental
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Fundamental
+Arrayx170
+Stringx79
+Two Pointersx48
+Arrayx170
+Array
+Array
+x170
+Stringx79
+String
+String
+x79
+Two Pointersx48
+Two Pointers
+Two Pointers
+x48
+Show more
+Show more
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+357/3460
+Solved
+56.18%
+Acceptance
+Beats
+97.3%
+Beats
+91.96%
+Beats
+51.1%
+35 Attempting
+1.7K submission
+8 Attempting
+25 Attempting
+2 Attempting
+357/3460
+Solved
+357/3460
+357
+/3460
+Solved
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+56.18%
+Acceptance
+56.18%
+56
+.18%
+Acceptance
+Beats
+97.3%
+Beats
+97.3%
+97
+.3%
+Beats
+91.96%
+Beats
+91.96%
+91
+.96%
+Beats
+51.1%
+Beats
+51.1%
+51
+.1%
+35 Attempting
+35
+Attempting
+1.7K submission
+1.7K
+submission
+8 Attempting
+8
+Attempting
+25 Attempting
+25
+Attempting
+2 Attempting
+2
+Attempting
+Easy
+185/859
+Med.
+166/1799
+Hard
+6/802
+Easy
+185/859
+Easy
+185/859
+Med.
+166/1799
+Med.
+166/1799
+Hard
+6/802
+Hard
+6/802
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+Badges
+2
+Most Recent Badge
+50 Days Badge 2024
+Badges
+2
+Badges
+2
+Badges
+2
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Most Recent Badge
+50 Days Badge 2024
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+424
+submissions in the past one year
+Total active days:89
+Max streak:11
+Current
+424
+submissions in the past one year
+424
+submissions in the past one year
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Total active days:89
+Max streak:11
+Current
+Total active days:89
+Total active days:
+89
+Max streak:11
+Max streak:
+11
+Current
+Current
+Current
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+MarAprMayJunJulAugSepOctNovDecJanFeb
+MarAprMayJunJulAugSepOctNovDecJanFeb
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Recent AC
+List
+Solutions
+Discuss
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Recent AC
+List
+Solutions
+Discuss
+Recent AC
+Recent AC
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Recent AC
+List
+List
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+List
+Solutions
+Solutions
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Solutions
+Discuss
+Discuss
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Discuss
+Most RecentMost Votes
+Most Recent
+Most Recent
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Most Recent
+[EMPTY ELEMENT]
+Most Votes
+Most Votes
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Most Votes
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Special Array I
+an hour ago
+Special Array I
+an hour ago
+Special Array I
+an hour ago
+Find Unique Binary String
+an hour ago
+Find Unique Binary String
+an hour ago
+Find Unique Binary String
+an hour ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+The k-th Lexicographical String of All Happy Strings of Length n
+a day ago
+Construct Smallest Number From DI String
+2 days ago
+Construct Smallest Number From DI String
+2 days ago
+Construct Smallest Number From DI String
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Letter Tile Possibilities
+2 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Construct the Lexicographically Largest Valid Sequence
+4 days ago
+Design Most Recently Used Queue
+5 days ago
+Design Most Recently Used Queue
+5 days ago
+Design Most Recently Used Queue
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Find the Punishment Number of an Integer
+5 days ago
+Product of the Last K Numbers
+6 days ago
+Product of the Last K Numbers
+6 days ago
+Product of the Last K Numbers
+6 days ago
+Tenth Line
+7 days ago
+Tenth Line
+7 days ago
+Tenth Line
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Distinct Numbers in Each Subarray
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Make the Prefix Sum Non-negative
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Minimum Operations to Exceed Threshold Value II
+7 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Max Sum of a Pair With Equal Sum of Digits
+8 days ago
+Special Array I
+9 days ago
+Special Array I
+9 days ago
+Special Array I
+9 days ago
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+Copyright © 2025 LeetCode
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+Help Center
+Jobs
+Bug Bounty
+Assessment
+Students
+Terms
+Privacy Policy
+United States
+[EMPTY ELEMENT]
+United States
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+{"props":{"pageProps":{"dehydratedState":{"mutations":[],"queries":[]},"_nextI18Next":{"initialI18nStore":{"en":{"common":{"404":{"title":"Page Not Found - LeetCode","pageNotFound":"Page Not Found","message":"Sorry, but we can't find the page you are looking for..."},"meta":{"title":"","description":"","keywords":""},"ok":"OK","cancel":"Cancel","confirm":"Confirm","update":"Update","submit":"Submit","save":"Save","netFailed":"Debugger failed to connect","header":{"logo":{"url":"","description":""},"title":{"problemset-all":""},"action":{"login":{"text":"","url":""}}},"conjunctions":{"and":"and","or":"or"},"pages":{"leetcode":"LeetCode","explore":"Explore","problems":"Problems","interview":{"interview":"Interview","onlineInterview":"Online Interview","assessment":"Assessment"},"contest":"Contest","discuss":"Discuss","store":{"store":"Store","redeem":"Redeem","premium":"Premium","shop":"Micro-shop"},"admin":{"admin":"Admin","library":"Library","review":"Review","operations":"User Management","scores":"Points","contribute":"Contribution","backend":"Administration","internalContest":"Internal Contest Dashboard","contestDashboard":"Contest Dashboard","contestAdmin":"Contest Cheating Dashboard","emailBatch":"Email Batch","dangerZone":"Danger Zone","dbTestcase":"DB Testcase Converter","tagManagement":"Tag Management","questionFeedback":"Question Feedback"},"mobileApp":"Mobile App","playground":"Playground","signIn":"Sign in","register":"Register","signOut":"Sign Out"},"userMenu":{"renew":"Renew","getPremium":"Access all features with our Premium subscription!","orders":"Orders","tryNewFeatures":"Try New Features","translateQuestions":"Display problems in Chinese","unmockUser":"Unmock User","revertToOldVersion":"Classic Mode","categories":{"myList":"My Lists","notebook":"Notebook","submissions":"Submissions","session":"Session","points":"Points","progress":"Progress"},"appearance":"Appearance","appearanceContent":{"auto":"System Default","light":"Light","dark":"Dark"},"account":"Settings"},"streakCounter":{"finished":"Well done! Come back for tomorrow's challenge!","unfinished":"Solve today's Daily Challenge to refresh your streak!","buyTimeTravelTicket":"Buy Time Travel Ticket","missedOneDayThisMonth":"You missed 1 day this month. ","missedDaysThisMonth":"You missed {{count}} days this month. "},"playground":{"playground":"Playground","myPlaygrounds":"My Playgrounds","remainingPlaygrounds":"Remaining","renew":"Renew","templates":{"consoleApplication":"Console Application","empty":"New Playground","frontend":"Frontend","machineLearning":"Machine Learning"}},"links":{"premium":"/subscribe/","discuss":"/discuss/","assessment":"/assessment/","shop":"https://detail.youzan.com/show/goods/newest?alias=271n43vr9hen7","onlineInterview":"https://interview.leetcode.com/interview/","profileArticles":"/submissions/","orders":"/store/orders/","tryNewFeatures":"/new/","explore":"/explore/","admin":{"scores":"/points/admin","operations":"/user_management"},"playground":"/playground","account":"/profile"},"pagination":{"perpage":"/ page"},"expand":"Expand","collapse":"Collapse","difficulty":{"easy":"Easy","medium":"Medium","hard":"Hard"},"easterEgg":{"rewardMessage":"Congratulations! You just found 10 LeetCoins. Happy LeetCoding!"},"markdown":{"heading":"heading","quote":"Quote"},"mentions":{"users":"Users","problems":"Problems"},"confirmModal":{"title":"Are you sure?","confirmBtn":"Confirm","cancelBtn":"Cancel"},"saving":"Saving...","saved":"Saved","autoSaved":"Save automatically","loginRequired":"Sign in required","verifiedRequired":"You need to verify your email","phoneVerifiedRequired":"Your need to verify your phone","maybeVerifiedRequired":"You need to verify your email","dailyCheckIn":"+1 Daily Check-in","copy":"Copy","copyToEditor":"Copy To Editor","copied":"Copied!","copyLink":"Copy Link","viewMore":"View more","viewLess":"View less","code":"Code","survey":{"veryDissatisfied":"Very Dissatisfied","verySatisfied":"Very Satisfied","next":"Next","continue":"Continue","submit":"Submit","questionNo":"Question {{current}} of {{total}}","thanksMsg":"🎉 Thanks for your feedback!"},"qdNav":{"backTitle":"Problem List","expandPanel":"Expand Panel","preQuestion":"Prev Question","nextQuestion":"Next Question","pickOne":"Pick one","openInNewTab":"Open in New Tab"},"premiumModal":{"learnMore":"Learn more","subscribe":"Subscribe"},"truncatedContent":{"viewAll":"View all","viewLess":"View less","openRaw":"Open Raw","showMore":"Show more","showLess":"Show less"},"safariNotUse":"The current version of Safari is too low. For better experience, upgrade to the latest version","account":{"emailVerifyModal":{"title":"Verify your account","description":"Please verify your email address in order to use your account.","verify":"Verify","cancel":"Cancel"}},"medal":{"metadataTitle":"Badge - LeetCode","congratulation":"Congratulations","genPoster":"Generate Image","genPostering":"Generating","saveImgMobile":"Long press to save the image","saveImgPc":"Right-click to save the image","medalEmpty":"Sorry, there are no medals to grab right now."},"recordEventType":{"start":"Start","switchQuestion":"Switch Question","switchLang":"Switch Language","pageVisible":"Page Switch","interpretCode":"Run Code","submitCode":"Submit Code","end":"End","input":"Input","undo":"Undo","redo":"Redo","paste":"External Paste","changeCursor":"Change Cursor","debug":"Debug","debugEnd":"Debug End"},"codeReplay":{"title":"Code Replay","redirectContent":"This account belongs to LeetCode China. Would you like to view it on leetcode.cn?","doNotShowAgain":"Don't show again","eventHistory":"Event History","skipInactive":"Skip inactive","noCodeResults":"No code results","size":"Size","chars":"chars","leaveContestPageN":"Leave Contest Page","returnContestPage":"Return to Contest Page"},"verified":"Verified"},"public-profile":{"meta":{"title":"{{username}} - LeetCode Profile","description":"View {{username}}'s profile on LeetCode, the world's largest programming community.","keywords":"","ogImage":"https://leetcode.com/static/images/LeetCode_Sharing.png"},"basic":{"aboutMe":"About Me","followers":"Followers","following":"Following","editProfile":"Edit Profile"},"problemsSolved":{"solved":"Solved","solvedProblems":"Solved Problems","notEnoughData":"Not enough data","beats":"Beats","difficulty":{"easy":"Easy","medium":"Medium","hard":"Hard"}},"community":{"lastWeek":"Last week","lastDay":"Last day","title":"Community Stats","views":"Views","vote":"Vote","level":"Level","reputation":"Reputation","favorite":"Favorite","solution":"Solution","discuss":"Discuss"},"submissionHeatMap":{"submission":"submissions in the past one year","submissionInYear":"submissions in {{year}}","totalActiveDays":"Total active days","maxStreak":"Max streak","utcTimezone":"Submissions are recorded in the UTC timezone","timePeriod":{"current":"Current"}},"languages":{"title":"Languages","notEnoughData":"Not enough data","calculatingData":"Calculating...","problemsSolved_one":"problem solved","problemsSolved_other":"problems solved","showMore":"Show more","showLess":"Show less"},"skills":{"title":"Skills","advanced":"Advanced","intermediate":"Intermediate","fundamental":"Fundamental","notEnoughData":"Not enough data","showMore":"Show more","showLess":"Show less"},"recentsList":{"showMore":"Show More","allSubmissions":"View all submissions","viewAll":"View all","recentAc":"Recent AC","solutions":"Solutions","discuss":"Discuss","mostVotes":"Most Votes","mostRecent":"Most Recent","votes":"Votes","recent":"Recent","noSubmissions":"No recent submissions","noSolution":"No solutions","noDiscuss":"No discussions","problemList":"List","viewAllList":"View all","noListText":"No Public lists","seeViewAll":"View all lists"},"badges":{"badges":"Badges","lockedBadge":"Locked Badge","mostRecentBadge":"Most Recent Badge","dailyChallenge":"Daily Challenge","historyAwards":"History Awards","showMoreBadges":"Show more badges","badgeList":"Badge List","competitionMedals":"Competition Medals","dailyMedals":"Daily Medals","studyPlanMedals":"Study Plan Medals","activityMedals":"Activity Medals","annualMedals":"Annual Medals","submissionMedals":"Submission Days","active":"Active","notActive":"Not Active"},"contestGraph":{"contestBadge":{"self":"Reach top {{percentage}}% of the contest rating to regain the badge","anonymous":"Previous Achievement"},"level":"Level","historyLevel":"History Level","contest":"Contest","rank":"Rank","solved":"Solved","score":"Score","contestRating":"Contest Rating","globalRanking":"Global Ranking","localRanking":"Local Ranking","attended":"Attended"},"histogram":{"top":"Top","numberOfUsers":"{{numberOfUsers}} users"},"feedback":{"feedback":"Feedback","revertToOld":"Revert to old version"},"socialProfile":{"uploadAvatar":"Upload Profile Avatar","cancel":"Cancel","save":"Save"}},"edit-profile":{"meta":{"profile":{"title":"Profile - LeetCode"},"resume":{"title":"Resume - LeetCode"},"preview-resume":{"title":"Preview - LeetCode"},"account":{"title":"Account - LeetCode"},"notifications":{"title":"Notifications - LeetCode"}},"buttons":{"submit":"Submit","submitting":"Submitting","save":"Save","saving":"Saving","delete":"Delete","deleting":"Deleting","change":"Change","changing":"Changing","connect":"Connect","disconnect":"Disconnect","disconnecting":"Disconnecting","add":"Add","adding":"Adding","done":"Done","cancel":"Cancel","yesChange":"Yes, change it!","ok":"OK","sync":"Sync"},"profile":{"tabTitle":"Profile","congratsTooltip":"🎉 Congratulations! You've earned {{leetCoins}} LeetCoins.","updateSuccess":"Your profile has been successfully updated.","avatar":{"upload":"Upload a photo","remove":"Remove photo","modalTitle":"Upload Profile Avatar","confirmDeleteAvatar":"Are you sure you want to reset your current avatar?"},"realName":{"label":"Name","placeholder":"Your name (Required)","errorRequired":"Name is a required field"},"birthday":{"label":"Birthday","placeholder":"Your birthday","tooltip":"This won't be displayed anywhere publicly","errorInvalid":"Birthday is invalid"},"location":{"label":"Location","placeholder":"Your residency location","noLocationsLabel":"No locations found","errorInvalid":"Location is invalid"},"headline":{"label":"Headline","placeholder":"Tell us about yourself (interests, experience, etc.)","errorMax":"Headline must be less than 100 characters","errorInvalid":"Headline is invalid"},"website":{"label":"Website","placeholder":"Your blog, portfolio, etc","errorInvalid":"Website URL is not valid"},"github":{"label":"GitHub","placeholder":"Your GitHub username","errorInvalid":"GitHub URL is invalid","labelInvalid":"Enter valid GitHub URL or username"},"linkedin":{"label":"LinkedIn","placeholder":"Your Linkedln username","errorInvalid":"LinkedIn URL is invalid","labelInvalid":"Enter valid LinkedIn URL or username"},"college":{"label":"College","placeholder":"Your school","errorInvalid":"College is invalid"},"company":{"label":"Company","placeholder":"Your company","errorInvalid":"Company is invalid"},"jobTitle":{"label":"Job Title","placeholder":"Your job title","errorInvalid":"Job Title is invalid"},"techSkills":{"label":"Technical Skills","placeholder":"Your skills","commonSkills":"Common Skills","errorMax":"The number of tags has reached the limit","errorInvalid":"Technical Skills are invalid"}},"resume":{"tabTitle":"Resume"},"account":{"tabTitle":"Account","accountInformation":{"sectionTitle":"Account Information","username":{"label":"LeetCode ID","placeholder":"Your LeetCode ID","confirmChangeTitle":"Are you sure you want to change your LeetCode ID?","confirmChangeContent":"You can only change your LeetCode ID once every 90 days.\nYou will no longer be able to login with your old LeetCode ID","errorTitle":"Error","errorIdTaken":"This LeetCode ID is already taken.","successNotification":"LeetCode ID has been changed successfully!","errorNotification":"Could not change LeetCode ID","cannotChangeTip":"Username can only be changed once in 90 days"},"email":{"label":"Email","primary":"Primary","unconfirmed":"Unconfirmed","setAsPrimary":"Set as Primary","newEmail":"New Email","confirm":"Confirm","verificationSent":"Verification email has been sent","verificationSuccess":"Success","confirmPasswordContent":"Please enter your current password to change the primary email","confirmPasswordPlaceholder":"Enter the password","setPrimarySuccessfully":"Set successfully","confirmDeleteTitle":"Delete","confirmDeleteContent":"Are you sure you want to delete your email?","errorEmailTaken":"Already associated with another user.","confirmationSent":"Email confirmation sent."},"syncToChina":"Sync to China"},"setPassword":{"sectionTitle":"Set Password","passwordNotSet":"You have not set the account password yet.","successNotification":"Password has been changed successfully!","errorNotification":"Could not change password.","oldPassword":{"label":"Old Password","placeholder":"Please enter password","errorIncorrect":"Your old password was entered incorrectly.","errorRequired":"Old Password is a required field"},"newPassword":{"label":"New Password","placeholder":"Enter new password","errorRequired":"New Password is a required field","errorDuplicate":"Your new password is the same as your old password.","errorAlphaNumeric":"Password must be alphanumeric","errorTooCommon":"Password is too common","errorMaxLength":"Password must be less than 150 characters","errorMinLength":"Password must be at least 8 characters"},"confirmPassword":{"label":"Confirm New Password","placeholder":"Re-enter new password","errorIncorrect":"Your passwords don't match.","errorRequired":"Confirm New Password is a required field"}},"socialAccounts":{"sectionTitle":"Social Accounts","github":"GitHub","linkedin":"LinkedIn","facebook":"Facebook","google":"Google","confirmDisconnectTitle":"Disconnect","confirmDisconnectContent":"Are you sure you want to disconnect your social account?"}},"notifications":{"tabTitle":"Notifications","email_notifications":"Email","site_notifications":"Site","announcements":{"sectionTitle":"Announcements","importantAnnouncements":"Important Announcements","featureAnnouncements":"Feature Announcements"},"award":{"sectionTitle":"Awards","awardNotification":"Award Notification"},"contest":{"sectionTitle":"Contest","rankingUpdates":"Global ranking updates","badgeUpdates":"Contest badge updates","announcements":"Contest announcements"},"discuss":{"sectionTitle":"Discuss","newComment":"New comment notifications"},"other":{"sectionTitle":"Other","other":"Other Notifications"},"promotions":{"sectionTitle":"Promotions","thanksgiving":"Thanksgiving promotion","other":"Other promotions"},"weeklyemail":{"sectionTitle":"Weekly Email","weeklyRecommendations":"Weekly recommendations"}}}},"zh":{"common":{"404":{"title":"力扣","pageNotFound":"页面不存在","message":"抱歉！我们找不到您想访问的页面..."},"meta":{"title":"","description":"","keywords":""},"ok":"好","cancel":"取消","confirm":"确认","update":"更新","submit":"提交","save":"保存","netFailed":"网络错误","header":{"logo":{"url":"","description":""},"title":{"problemset-all":""},"action":{"login":{"text":"","url":""}}},"conjunctions":{"and":"and","or":"或"},"pages":{"leetcode":"LeetCode","explore":"学习","problems":"题库","interview":{"interview":"求职","onlineInterview":"在线面试","assessment":"Assessment"},"contest":"竞赛","discuss":"讨论","store":{"store":"商店","redeem":"力扣周边","premium":"Plus 会员","shop":"精品商城"},"admin":{"admin":"管理员","library":"题库","translation":"翻译","operations":"运营管理","scores":"点数","contribute":"贡献","backend":"后台管理","twoStepVerification":"二步验证","internalContest":"Internal Contest Dashboard","contestAdmin":"Contest Cheating Dashboard","dangerZone":"Danger Zone","review":"Review","contestDashboard":"Contest Dashboard"},"mobileApp":"下载 App","playground":"Playground","myPlayground":"我的 Playground","signIn":"登录","register":"注册","signOut":"退出"},"userMenu":{"renew":"续订","getPremium":"升级 Plus 会员享专属特权","tryNewFeatures":"体验新功能","orders":"订单","resume":"个人资料","translateQuestions":"题目以中文展示","translateQuestionsEn":"题目以英文显示","enterprise":"企业招聘","revertToOldVersion":"经典模式","categories":{"myList":"收藏夹","notebook":"笔记本","submissions":"我的题解","session":"进度管理","points":"积分","progress":"进展分析"},"unmockUser":"Unmock User","account":"账号设置","appearance":"外观","appearanceContent":{"auto":"跟随系统","light":"浅色","dark":"深色"}},"streakCounter":{"finished":"干的好！明天再来挑战！","unfinished":"解决今天的「每日 1 题」，刷新你的连胜记录！","buyTimeTravelTicket":"购买补签卡","missedOneDayThisMonth":"这个月你错过了 1 天.","missedDaysThisMonth":"这个月你错过了 {{count}} 天."},"playground":{"playground":"Playground","remainingPlaygrounds":"数量","renew":"升级","myPlaygrounds":"我的 Playgrounds","templates":{"consoleApplication":"控制台程序","empty":"空白 Playground","frontend":"前端程序","machineLearning":"机器学习"}},"links":{"admin":{"scores":"/library/scores","translation":"/contribution/translation/question/admin/","operations":"/management"},"premium":"/premium","discuss":"/circle","interview":"/company","shop":"https://detail.youzan.com/show/goods/newest?alias=271n43vr9hen7","onlineInterview":"https://leetcode.cn/interview","profileArticles":"/profile/articles","tryNewFeatures":"/new/","orders":"/order","explore":"/leetbook","resume":"/profile/info/","playground":"/playground","assessment":"/assessment/","account":"/profile/info"},"pagination":{"perpage":" 条/页"},"expand":"展开","collapse":"收起","difficulty":{"easy":"简单","medium":"中等","hard":"困难"},"data":{"question":{"difficulty":{"easy":"简单","medium":"中等","hard":"困难"}}},"markdown":{"heading":"heading","quote":"Quote"},"mentions":{"users":"用户","problems":"题目"},"confirmModal":{"title":"确定执行此操作?","confirmBtn":"确定","cancelBtn":"取消"},"saving":"保存中...","saved":"保存成功","autoSaved":"已自动保存","loginRequired":"您尚未登录","verifiedRequired":"请绑定手机号或者邮箱后继续操作","phoneVerifiedRequired":"请绑定手机号后继续操作","maybeVerifiedRequired":"请绑定手机号后继续操作","copy":"复制","copyToEditor":"复制到编辑器","copied":"已复制","copyLink":"复制链接","viewMore":"查看更多","viewLess":"收起","code":"代码","dailyCheckIn":"+1 每日登录","//maybeVerifiedRequired":"maybeVerifiedRequired means email in LCUS and phone in LCCN","easterEgg":{"rewardMessage":"恭喜您获得了 10 积分，Happy LeetCoding!"},"survey":{"veryDissatisfied":"非常不满意","verySatisfied":"非常满意","next":"下一题","continue":"继续","submit":"提交","questionNo":"问卷题目 {{current}}/{{total}}","thanksMsg":"🎉 感谢您的反馈!"},"qdNav":{"backTitle":"题库","expandPanel":"展开面板","preQuestion":"上一题","nextQuestion":"下一题","pickOne":"随机一题","openInNewTab":"在新的标签页打开"},"premiumModal":{"learnMore":"了解更多权益","subscribe":"升级 Plus 会员"},"truncatedContent":{"viewAll":"查看全部","viewLess":"收起","openRaw":"打开源码","showMore":"显示更多","showLess":"显示更少"},"safariNotUse":"当前 Safari 版本过低，为了更好的使用体验，请升级到最新版本","medal":{"metadataTitle":"勋章 - 力扣（LeetCode）","congratulation":"恭喜获得","genPoster":"生成海报","genPostering":"生成中...","saveImgMobile":"长按图片保存","saveImgPc":"右键保存图片","medalEmpty":"暂无可领取的勋章"},"recordEventType":{"start":"开始","switchQuestion":"切换问题","switchLang":"切换语言","pageVisible":"切换页面","interpretCode":"运行代码","submitCode":"提交代码","end":"结束","input":"输入","undo":"撤销","redo":"重做","paste":"外部粘贴","changeCursor":"改变光标","debug":"调试","debugEnd":"结束调试"},"codeReplay":{"title":"代码回放","redirectContent":"这个账号属于 LeetCode 国际服. 前往 leetcode.com 查看?","doNotShowAgain":"不再提示","eventHistory":"回放事件","skipInactive":"跳过非活跃事件","noCodeResults":"没有代码结果","size":"大小","chars":"字符","leaveContestPageN":"离开竞赛作答页","returnContestPage":"回到竞赛作答页"},"verified":"已认证"},"public-profile":{"meta":{"title":"{{username}} - 力扣（LeetCode）","description":"View {{username}}'s profile on LeetCode, the world's largest programming community.","keywords":"","ogImage":"https://leetcode.com/static/images/LeetCode_Sharing.png"},"basic":{"aboutMe":"个人简介","followers":"关注者","following":"关注了","editProfile":"编辑个人资料"},"problemsSolved":{"solved":"解决问题","solvedProblems":"解题数量","notEnoughData":"暂无数据","beats":"击败用户","difficulty":{"easy":"简单","medium":"中等","hard":"困难"}},"community":{"lastWeek":"上周","lastDay":"昨日","title":"成就贡献","views":"阅读总数","vote":"获得点赞","level":"声望等级","reputation":"声望","favorite":"获得收藏","solution":"题解","discuss":"讨论"},"submissionHeatMap":{"submission":"过去一年共提交","submissionInYear":"{{year}} 年的提交","totalActiveDays":"累计提交天数","maxStreak":"连续提交","utcTimezone":"提交按 UTC 时间记录","timePeriod":{"current":"过去一年"}},"languages":{"title":"语言","notEnoughData":"暂无数据","calculatingData":"计算中...","problemsSolved_one":"解题数 ","problemsSolved_other":"解题数 ","showMore":"查看更多","showLess":"收起"},"skills":{"title":"技能","advanced":"高级","intermediate":"进阶","fundamental":"基础","notEnoughData":"暂无数据","showMore":"查看更多","showLess":"收起"},"recentsList":{"showMore":"加载更多","allSubmissions":"所有提交记录","recentAc":"最近通过","solutions":"题解","discuss":"讨论发布","mostVotes":"Most Votes","mostRecent":"Most Recent","votes":"Votes","recent":"Recent","noSubmissions":"","noSolution":"","noDiscuss":"","viewAll":"View all","problemList":"题单","viewAllList":"所有题单","noListText":"暂无公开题单","seeViewAll":"查看所有题单"},"badges":{"badges":"勋章成就","lockedBadge":"即将获得","mostRecentBadge":"最近获得","dailyChallenge":"每日打卡","historyAwards":"历史勋章","showMoreBadges":"查看更多勋章","badgeList":"勋章列表","competitionMedals":"竞赛勋章","dailyMedals":"打卡勋章","studyPlanMedals":"学习计划勋章","activityMedals":"活动勋章","annualMedals":"年度勋章","submissionMedals":"提交天数","active":"已佩戴","notActive":"未佩戴"},"contestGraph":{"contestBadge":{"self":"需要达到 top {{percentage}}% 才能重新获得勋章","anonymous":"曾获得"},"level":"当前段位","historyLevel":"历史段位","contest":"竞赛场次","rank":"排名","solved":"得分","score":"得分","contestRating":"竞赛分数","globalRanking":"全球排名","localRanking":"全国排名","attended":"参赛总数"},"histogram":{"top":"Top","numberOfUsers":"{{numberOfUsers}} 用户"},"feedback":{"feedback":"问题反馈","revertToOld":"返回旧版"},"socialProfile":{"uploadAvatar":"上传头像","cancel":"取消","save":"保存"}},"edit-profile":{"meta":{"profile":{"title":"个人资料 - 力扣（LeetCode）"},"resume":{"title":"简历信息 - 力扣（LeetCode）"},"preview-resume":{"title":"简历预览 - 力扣（LeetCode）"},"account":{"title":"账户信息 - 力扣（LeetCode）"},"notifications":{"title":"通知设置 - 力扣（LeetCode）"}},"buttons":{"submit":"提交","submitting":"提交中","save":"保存","saving":"保存中","delete":"删除","deleting":"删除中","change":"变更","changing":"变更中","connect":"关联","disconnect":"取消关联","disconnecting":"取消关联中","add":"添加","adding":"添加中","done":"完成","cancel":"取消","yesChange":"保存成功！","ok":"确认","sync":"同步","next":"下一步","edit":"编辑","fold":"收起","unfold":"展开"},"tip":{"optional":"（选填）","errorSelectRequired":"请选择","errorInputRequired":"请填写","optionalFieldsTip":"选填字段：GitHub、个人网站、技能","optionalInfo":"选填信息","StartEndTimeValidate":"开始时间需小于结束时间","startedAtPlaceholder":"开始时间","endedAtPlaceholder":"结束时间"},"profile":{"tabTitle":"个人资料","congratsTooltip":"🎉 🎉 恭喜你获得 {{leetCoins}} LeetCoins！","updateSuccess":"个人资料更新成功","avatar":{"upload":"上传头像","remove":"删除头像","modalTitle":"上传头像","uploadErrTip":"上传头像失败，请稍后重试","confirmDeleteAvatar":"确认重置当前头像吗？"},"realName":{"label":"昵称","placeholder":"昵称（必填项）","errorRequired":"昵称为必填项"},"gender":{"label":"性别"},"birthday":{"label":"生日","placeholder":"请选择","tooltip":"生日将不会对外展示","errorInvalid":"生日格式错误"},"location":{"label":"现居地","placeholder":"请选择","noLocationsLabel":"未找到相关地区","errorInvalid":"现居地格式错误"},"headline":{"label":"个人介绍","placeholder":"关于你的个性、兴趣或经验...","errorMax":"个人介绍需少于 100 字","errorInvalid":"个人介绍格式错误"},"website":{"label":"个人网站","placeholder":"你的个人网站、博客或作品集等","errorInvalid":"个人网站地址格式错误"},"github":{"label":"GitHub","placeholder":"用户名","errorInvalid":"GitHub 地址格式错误","labelInvalid":"请输入有效的 GitHub 链接或用户名"},"college":{"label":"就读学校","placeholder":"最高学历学校","errorInvalid":"学校名不正确"},"company":{"label":"所在公司","placeholder":"最近工作公司","errorInvalid":"公司名不正确"},"jobTitle":{"label":"职位","placeholder":"你的职位","errorInvalid":"职位不正确"},"major":{"label":"专业","placeholder":"你的专业","errorInvalid":"专业不正确"},"techSkills":{"label":"技能标签","placeholder":"你的技能标签","commonSkills":"常用标签","errorMax":"技能标签数超过限制","errorInvalid":"技能标签不正确"}},"resume":{"tabTitle":"简历信息","guideTitle":"定制你的理想工作机会","guideInfo":"轻松完善简历，迎接下一份工作机会","guideBtnText":"手动填写 (5 分钟)","intention":"求职意向","workExperience":"工作经历","education":"教育经历","basic":"基本信息","jobSeekingStatus":{"label":"求职状态","preparation":"准备求职面试","lookat":"看看求职机会","ignored":"暂不考虑机会"},"occupation":{"label":"身份","student":"学生","professional":"职场人"},"expectedJob":{"label":"意向岗位","placeholder":"输入或选择"},"expectedLocation":{"label":"期望地区","placeholder":"输入或选择","noLocationsLabel":"未找到相关地区","errorInvalid":"现居地格式错误"},"location":{"label":"现居地","placeholder":"输入或选择","noLocationsLabel":"未找到相关地区","errorInvalid":"现居地格式错误"},"salary":{"label":"期望薪资"},"company":{"label":"公司名称","placeholder":"请填写公司名称"},"job":{"label":"职位名称","placeholder":"输入或选择"},"workTime":{"label":"在职时间"},"workExperienceTip":"你的信息将对该公司不可见","skipWorkExperience":"尚无工作经验，跳过","school":{"label":"学校名称","placeholder":"请填写学校名称"},"degree":{"label":"学历","placeholder":"请选择你的学历","admission":"统招"},"eduTime":{"label":"就读时间","joinAtPlaceholder":"开始时间","endedAtPlaceholder":"结束时间"},"realName":{"label":"姓名","placeholder":"真实姓名"},"phone":{"label":"手机号","placeholder":"请输入手机号"},"email":{"label":"邮箱","placeholder":"请输入邮箱地址"},"birthday":{"label":"出生日期","placeholder":"请选择"},"workedAt":{"label":"参加工作时间","placeholder":"请选择"},"description":{"label":"职责业绩","placeholder":"90%的招聘方会通过职责业绩了解您的工作能力进而决定面试几率。 (选填）"},"eduDescription":{"label":"在校经历","placeholder":"请描述该项目 (选填）"}},"account":{"tabTitle":"账户信息","accountInformation":{"sectionTitle":"Account Information","username":{"label":"LeetCode ID","placeholder":"Your LeetCode ID","confirmChangeTitle":"Are you sure you want to change your LeetCode ID?","confirmChangeContent":"You can only change your LeetCode ID once every 90 days.\nYou will no longer be able to login with your old LeetCode ID","errorTitle":"Error","errorIdTaken":"This LeetCode ID is already taken.","successNotification":"LeetCode ID has been changed successfully!","errorNotification":"Could not change LeetCode ID","cannotChangeTip":"Username can only be changed once in 90 days"},"email":{"label":"Email","primary":"Primary","unconfirmed":"Unconfirmed","setAsPrimary":"Set as Primary","newEmail":"New Email","confirm":"Confirm","verificationSent":"Verification email has been sent","verificationSuccess":"Success","confirmPasswordContent":"Please enter your current password to change the primary email","confirmPasswordPlaceholder":"Enter the password","setPrimarySuccessfully":"Set successfully","confirmDeleteTitle":"Delete","confirmDeleteContent":"Are you sure you want to delete your email?","errorEmailTaken":"Already associated with another user.","confirmationSent":"Email confirmation sent."},"syncToChina":"Sync to China"},"setPassword":{"sectionTitle":"Set Password","passwordNotSet":"You have not set the account password yet.","successNotification":"Password has been changed successfully!","errorNotification":"Could not change password.","oldPassword":{"label":"Old Password","placeholder":"Please enter password","errorIncorrect":"Your old password was entered incorrectly.","errorRequired":"Old Password is a required field"},"newPassword":{"label":"New Password","placeholder":"Enter new password","errorRequired":"New Password is a required field","errorDuplicate":"Your new password is the same as your old password.","errorAlphaNumeric":"Password must be alphanumeric","errorTooCommon":"Password is too common","errorMaxLength":"Password must be less than 150 characters","errorMinLength":"Password must be at least 8 characters"},"confirmPassword":{"label":"Confirm New Password","placeholder":"Re-enter new password","errorIncorrect":"Your passwords don't match.","errorRequired":"Confirm New Password is a required field"}},"socialAccounts":{"sectionTitle":"Social Accounts","github":"GitHub","linkedin":"LinkedIn","facebook":"Facebook","google":"Google","confirmDisconnectTitle":"Disconnect","confirmDisconnectContent":"Are you sure you want to disconnect your social account?"}},"notifications":{"tabTitle":"通知设置","email_notifications":"Email","site_notifications":"Site","announcements":{"sectionTitle":"Announcements","importantAnnouncements":"Important Announcements","featureAnnouncements":"Feature Announcements"},"award":{"sectionTitle":"Awards","awardNotification":"Award Notification"},"contest":{"sectionTitle":"Contest","rankingUpdates":"Global ranking updates","badgeUpdates":"Contest badge updates","announcements":"Contest announcements"},"discuss":{"sectionTitle":"Discuss","newComment":"New comment notifications"},"other":{"sectionTitle":"Other","other":"Other Notifications"},"promotions":{"sectionTitle":"Promotions","thanksgiving":"Thanksgiving promotion","other":"Other promotions"},"weeklyemail":{"sectionTitle":"Weekly Email","weeklyRecommendations":"Weekly recommendations"}}}}},"initialLocale":"en","ns":["common","public-profile","edit-profile"],"userConfig":{"i18n":{"defaultLocale":"zh","locales":["en","zh"]},"react":{"useSuspense":false},"reloadOnPrerender":false,"default":{"i18n":{"defaultLocale":"zh","locales":["en","zh"]},"react":{"useSuspense":false},"reloadOnPrerender":false}}}},"enableNewVersion":false,"__N_SSP":true},"page":"/u/[username]","query":{"username":"kianis4"},"buildId":"y93x6p75GoVuThLb6FOqN","isFallback":false,"gssp":true,"appGip":true,"scriptLoader":[]}
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
+[EMPTY ELEMENT]
