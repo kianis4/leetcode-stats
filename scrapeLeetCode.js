@@ -2,7 +2,7 @@ const puppeteer = require("puppeteer");
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: false, // Change to true for headless mode
+    headless: true, // Change to true for headless mode
     slowMo: 50,
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
